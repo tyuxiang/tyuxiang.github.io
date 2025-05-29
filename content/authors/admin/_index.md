@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 陈宇翔
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chen Yu Xiang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yu Xiang
+last_name: Tan
 
 # Status emoji
 status:
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: MARVL lab at SUTD (Singapore University of Technology and Design)
+    url: https://www.marvl.ai/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:tyuxiang99@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,17 +47,18 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Marine Robotics
+  - Computer Vision
+  - Adverse Weather
+  - Educational Robotics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Mobile Robotics
+    institution: Singapore University of Technology and Design
+    date_start: 2021-09-01
+    date_end: 2025-09-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Context-Aware Perception in Adverse Conditions_. Supervised by [Prof Malika Meghjani](https://www.malikameghjani.com/). Presented papers at 4 IEEE conferences with the contributions being published in 6 IEEE proceedings.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -183,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yu Xiang is a Ph.D. candidate with strong interest in robust robot perception for adverse weather scenarios. He has participated in multiple research projects, mainly investigating perception models for localization in rain and 3D mapping in murky waters. He also developed strong research and communication skills. He has a wide range of experience working with robots across various domains such as land and underwater. He is a team-player who is self-motivated to learn on the go.
