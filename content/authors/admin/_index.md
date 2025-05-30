@@ -37,8 +37,8 @@ profiles:
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/tyuxiang
+  # - icon: brands/github
+  #   url: https://github.com/tyuxiang
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yuxiang-tan/
   - icon: academicons/google-scholar
