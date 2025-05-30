@@ -1,4 +1,3 @@
-<!-- Uncomment this to get back the Javascript course -->
 ---
 title: Learn JavaScript
 summary: Easily learn JavaScript in 10 minutes!
