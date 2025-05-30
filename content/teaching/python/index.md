@@ -5,24 +5,24 @@ date: 2023-10-24
 type: docs
 math: false
 tags:
-  - Python
+  - Mobile Robotics
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+<!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox. -->
 
 ## Video
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+Check out our course video for Mobile Robotics 2025:
 
 {{< youtube VdsvWbnZPas >}}
 
-**Youtube**:
+<!-- **Youtube**:
 
     {{</* youtube w7Ft2ymGmfc */>}}
 
@@ -34,9 +34,9 @@ Teach your course by sharing videos with your students. Choose from one of the f
 
 Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
 
-    {{</* video src="my_video.mp4" controls="yes" */>}}
+    {{</* video src="my_video.mp4" controls="yes" */>}} -->
 
-## Podcast
+<!-- ## Podcast
 
 You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
 
@@ -44,9 +44,9 @@ You can add a podcast or music to a page by placing the MP3 file in the page's f
 
 Try it out:
 
-{{< audio src="ambient-piano.mp3" >}}
+{{< audio src="ambient-piano.mp3" >}} -->
 
-## Test students
+<!-- ## Test students
 
 Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
 
@@ -58,9 +58,9 @@ You found me!
 
 renders as
 
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
+{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}} -->
 
-## Math
+<!-- ## Math
 
 Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
 
@@ -95,9 +95,9 @@ Example **multi-line math** using the math linebreak (`\\`):
 $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
 1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
 {{</* /math */>}}
-```
+``` -->
 
-renders as
+<!-- renders as
 
 {{< math >}}
 
@@ -106,9 +106,9 @@ f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
 1-p_{0}^{*} & \text{if }k=0.\end{cases}
 $$
 
-{{< /math >}}
+{{< /math >}} -->
 
-## Code
+<!-- ## Code
 
 Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
 
@@ -124,7 +124,7 @@ renders as
 ```python
 import pandas as pd
 data = pd.read_csv("data.csv")
-data.head()
+data.head() -->
 ```
 
 ## Inline Images
@@ -137,4 +137,4 @@ renders as
 
 {{< icon name="python" >}} Python
 
-## Did you find this page helpful? Consider sharing it 🙌
+<!-- ## Did you find this page helpful? Consider sharing it 🙌 -->
