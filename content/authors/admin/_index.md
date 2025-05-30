@@ -10,8 +10,8 @@ first_name: Yu Xiang
 last_name: Tan
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true

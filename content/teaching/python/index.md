@@ -1,6 +1,6 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
+title: Mobile Robotics 2025
+summary: A Singapore University of Technology and Design course on teaching students basic robotics navigation through the use of many hands-on assignments. The students get to program a 1/10th sized car to perform mapping, localization and navigation autonomously in both indoor and outdoor environments. There is a final racetrack challenge where the students had to design the car to perform both Object Detection and Vision-Control loop to perform various tasks. Their project called Autolap involved designing the car to autonomously navigate itself along the field track staying within the lanes for 1 entire loop. I helped design the project, taught the tutorials and assisted with porting the car and homework over from ROS1 architecture to ROS2 architecture.
 date: 2023-10-24
 type: docs
 math: false
@@ -20,7 +20,7 @@ On this page, you'll find some examples of the types of technical content that c
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-{{< youtube D2vj0WcvH5c >}}
+{{< youtube VdsvWbnZPas >}}
 
 **Youtube**:
 
