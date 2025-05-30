@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 陈宇翔
+title: Yu Xiang Tan
 
 # Name pronunciation (optional)
-name_pronunciation: Chen Yu Xiang
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Yu Xiang
@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:tyuxiang99@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/tyuxiang
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yuxiang-tan/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=gYVReecAAAAJ&hl=en&authuser=1
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - Marine Robotics
@@ -70,11 +70,6 @@ education:
       GPA: 4.44/5.0
       Bachelors of Engineering (Hons)
       Awarded with the SUTD Merit Scholarship
-
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
   # - area: BSc Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   date_start: 2016-01-01
@@ -136,11 +131,11 @@ skills:
       - name: Climbing
         description: ''
         percent: 100
-        icon: person-simple-walk
+        icon: climb
       - name: Dancing
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: dance
 
 languages:
   - name: English
