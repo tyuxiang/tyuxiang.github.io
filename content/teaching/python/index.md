@@ -1,13 +1,13 @@
 ---
 title: Mobile Robotics 2025
 summary: A Singapore University of Technology and Design course on teaching students basic robotics navigation through the use of many hands-on assignments. The students get to program a 1/10th sized car to perform mapping, localization and navigation autonomously in both indoor and outdoor environments. There is a final racetrack challenge where the students had to design the car to perform both Object Detection and Vision-Control loop to perform various tasks. Their project called Autolap involved designing the car to autonomously navigate itself along the field track staying within the lanes for 1 entire loop. I helped design the project, taught the tutorials and assisted with porting the car and homework over from ROS1 architecture to ROS2 architecture.
-date: 2023-10-24
+date: 2025-05-30
 type: docs
 math: false
 tags:
   - Mobile Robotics
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Mobile Robotics Course 2025'
 ---
 
 <!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
