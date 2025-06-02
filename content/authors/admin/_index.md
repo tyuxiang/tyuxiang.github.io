@@ -37,14 +37,14 @@ profiles:
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
-  # - icon: brands/github
-  #   url: https://github.com/tyuxiang
+  - icon: brands/github
+    url: https://github.com/tyuxiang
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yuxiang-tan/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=gYVReecAAAAJ&hl=en&authuser=1
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-0788-1352
 
 interests:
   - Marine Robotics
