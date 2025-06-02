@@ -53,7 +53,6 @@ sections:
     design:
       view: citation
   - block: collection
-    id: projects
     content:
       title: Projects
       filters:
