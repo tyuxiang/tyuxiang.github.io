@@ -42,4 +42,13 @@ tags:
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10919493/
+- name: arXiv
+  url: https://arxiv.org/abs/2409.01038
+url_code: 'https://github.com/tyuxiang/Map-Fusion'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+url_video: 'https://www.youtube.com/watch?v=zYXG5uA5hQU'
 ---

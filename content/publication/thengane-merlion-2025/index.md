@@ -31,6 +31,13 @@ abstract: Autonomous and targeted underwater visual monitoring and exploration u
   improved results compared to the state-of-the-art approaches. We have open-sourced
   the code for MERLION at the following link https://github.com/MARVL-Lab/MERLION.git.
 links:
-- name: URL
+- name: arXiv
   url: https://arxiv.org/abs/2503.06953
+url_code: 'https://github.com/MARVL-Lab/MERLION'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+url_video: 'https://www.youtube.com/watch?v=KdlEqcLH9rY'
 ---

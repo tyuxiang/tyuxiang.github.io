@@ -45,4 +45,13 @@ tags:
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10753857/
+# - name: arXiv
+#   url: https://arxiv.org/abs/2402.03636
+# url_code: 'https://github.com/MARVL-Lab/MERLION'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+url_video: 'https://www.youtube.com/watch?v=LawHSlyCbsw'
 ---

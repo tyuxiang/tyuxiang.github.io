@@ -25,6 +25,6 @@ abstract: This paper presents a localization algorithm for autonomous urban vehi
 tags:
 - Computer Science - Robotics
 links:
-- name: URL
+- name: arXiv
   url: http://arxiv.org/abs/2306.09134
 ---

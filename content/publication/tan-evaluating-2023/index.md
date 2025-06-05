@@ -33,4 +33,13 @@ abstract: The increasing demand for autonomous vehicles has created a need for r
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10260549/
+- name: arXiv
+  url: https://arxiv.org/abs/2309.05249
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 ---
