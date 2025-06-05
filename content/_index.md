@@ -61,6 +61,15 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: collection
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - teaching
+    design:
+      view: article-grid
+      columns: 1
   # - block: collection
   #   id: talks
   #   content:
