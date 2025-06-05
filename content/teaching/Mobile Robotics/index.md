@@ -1,6 +1,6 @@
 ---
 title: Mobile Robotics 2025
-summary: A Singapore University of Technology and Design course on teaching students basic robotics navigation through the use of many hands-on assignments. The students get to program a 1/10th sized car to perform mapping, localization and navigation autonomously in both indoor and outdoor environments. There is a final racetrack challenge where the students had to design the car to perform both Object Detection and Vision-Control loop to perform various tasks. Their project called Autolap involved designing the car to autonomously navigate itself along the field track staying within the lanes for 1 entire loop. I helped design the project, taught the tutorials and assisted with porting the car and homework over from ROS1 architecture to ROS2 architecture.
+summary: I was a Teaching Assistant for the Mobile Robotics course held by Singapore University of Technology and Design. This course teaches students basic robotics navigation through the use of many hands-on assignments.
 date: 2025-05-30
 type: docs
 math: false
@@ -15,7 +15,7 @@ image:
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox. -->
-
+I had lots of fun being the Teaching Assistant for the Mobile Robotics course held by Singapore University of Technology and Design (SUTD). The students get to program a 1/10th sized car to perform mapping, localization and navigation autonomously in both indoor and outdoor environments. There is a final racetrack challenge where the students had to design the car to perform both Object Detection and Vision-Control loop to perform various tasks. Their project called Autolap involved designing the car to autonomously navigate itself along the field track staying within the lanes for 1 entire loop. I helped design the project, taught the tutorials and assisted with porting the car and homework over from ROS1 architecture to ROS2 architecture.
 ## Video
 
 Check out our course video for Mobile Robotics 2025:
@@ -124,7 +124,7 @@ renders as
 ```python
 import pandas as pd
 data = pd.read_csv("data.csv")
-data.head() -->
+data.head()
 ```
 
 ## Inline Images
@@ -133,8 +133,8 @@ data.head() -->
 {{</* icon name="python" */>}} Python
 ```
 
-renders as
+renders as -->
 
-{{< icon name="python" >}} Python
+<!-- {{< icon name="python" >}} Python -->
 
 <!-- ## Did you find this page helpful? Consider sharing it 🙌 -->
