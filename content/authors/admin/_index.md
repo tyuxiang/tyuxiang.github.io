@@ -26,8 +26,8 @@ role: Computer Vision Research Engineer
 organizations:
   - name: Hyundai Motor Group Innovation Center Singapore
     url: https://www.hyundai.com/sg/home
-  - name: MARVL lab at SUTD (Singapore University of Technology and Design)
-    url: https://www.marvl.ai/
+  # - name: MARVL lab at SUTD (Singapore University of Technology and Design)
+  #   url: https://www.marvl.ai/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
