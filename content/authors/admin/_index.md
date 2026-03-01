@@ -20,10 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Computer Vision Research Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: Hyundai Motor Group Innovation Center Singapore
+    url: https://www.hyundai.com/sg/home
   - name: MARVL lab at SUTD (Singapore University of Technology and Design)
     url: https://www.marvl.ai/
 
@@ -47,9 +49,9 @@ profiles:
     url: https://orcid.org/0000-0002-0788-1352
 
 interests:
+  - Foundation models
+  - 3D Reconstruction
   - Marine Robotics
-  - Computer Vision
-  - Adverse Weather
   - Educational Robotics
 
 education:
@@ -82,6 +84,14 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Computer Vision Research Engineer
+    company_name: Hyundai Motor Group Innovation Center Singapore
+    company_url: 'https://www.hyundai.com/sg/home'
+    company_logo: ''
+    date_start: 2026-01-01
+    date_end: current
+    summary: |
+      - Designing highly accurate and precise mapping and localization algorithms for manufacturing using various RGBD cameras.
   - position: Data Analytic Research Intern
     company_name: Temasek Laboratories at SUTD
     company_url: ''
@@ -179,4 +189,4 @@ languages:
 
 ## About Me
 
-Yu Xiang is a Ph.D. candidate with strong interest in robust robot perception for adverse weather scenarios. He has participated in multiple research projects, mainly investigating perception models for localization in rain and 3D mapping in murky waters. He also developed strong research and communication skills. He has a wide range of experience working with robots across various domains such as land and underwater. He is a team-player who is self-motivated to learn on the go.
+I am a Computer Vision Research Engineer specializing in 3D reconstruction, geometric optimization and high-performance C++ systems. I develop production ready measurment systems for manufacturing pipelines and explore the use of foundation models in generalizing and optimizing the workflow. I have a strong interest in the application of foundation models to perform robust 3D reconstruction and the exploration of a generalized representation of the reconstruction for diverse applications. During my PhD, I researched on robust localization and 3D reconstruction in robot perception for adverse weather scenarios. Specifically, I mainly investigated perception models for localization in rain and 3D mapping in murky waters. I have a wide range of experience working with robots across various domains such as land and underwater. I am also a team-player who is self-motivated to learn on the go.
