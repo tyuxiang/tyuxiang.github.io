@@ -193,4 +193,6 @@ languages:
 
 ## About Me
 
-I am a Computer Vision Research Engineer specializing in 3D reconstruction, geometric optimization and high-performance C++ systems. I develop production ready measurement systems for manufacturing pipelines and explore the use of foundation models in generalizing and optimizing the workflow. I have a strong interest in the application of foundation models to perform robust 3D reconstruction and am exploring the idea of a generalized representation of 3D scenes for diverse applications. Outside of work, I explore the potential of using AI for underwater coral reef mapping, which was also part of my research during my PhD.
+I am a Computer Vision Research Engineer specializing in 3D reconstruction, geometric optimization and high-performance C++ systems. I develop production ready measurement systems for manufacturing pipelines and explore the use of foundation models in generalizing and optimizing the workflow. Outside of work, I explore the use of AI for underwater coral reef mapping, which was also part of my research during my PhD.
+
+ <!-- I have a strong interest in the application of foundation models to perform robust 3D reconstruction and am exploring the idea of a generalized representation of 3D scenes for diverse applications. -->
