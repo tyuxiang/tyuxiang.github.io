@@ -1,3 +1,7 @@
+# Personal Website
+
+This is my personal website detailing the projects that I have worked on in the past and the teaching experiences that I had. I used the Hugo template which was very convenient and left their existing README as is below.
+
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
