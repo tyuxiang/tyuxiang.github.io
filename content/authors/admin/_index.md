@@ -89,6 +89,7 @@ work:
     company_url: 'https://www.hyundai.com/sg/home'
     company_logo: ''
     date_start: 2026-01-01
+    date_end: 
     summary: |
       - Designing highly accurate and precise mapping and localization algorithms for manufacturing using various RGBD cameras.
   - position: Data Analytic Research Intern
