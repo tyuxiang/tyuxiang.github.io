@@ -42,6 +42,11 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
+  - block: experience
+    content:
+      title: Experience
+    design:
+      columns: '2'
   - block: collection
     content:
       title: Recent Publications

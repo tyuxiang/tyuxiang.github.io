@@ -118,6 +118,10 @@ work:
 skills:
   - name: Technical Skills
     items:
+      - name: C++
+        description: ''
+        percent: 50
+        icon: code-bracket
       - name: Python
         description: ''
         percent: 80
